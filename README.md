@@ -1,4 +1,7 @@
-# HealthSocio
+<p align="center">
+  <img width="300"  src="images/Health%20Socio.png">
+  <h1 align= "center">HealthSocio</h1>
+</p>
 
 ## Social detriments demystified
 
@@ -13,3 +16,13 @@ Although it sounds obvious that health is more than clinical factors, there is n
 
 ## [Video](https://drive.google.com/drive/folders/1_Pj2xaJQJN0Lw6UbYVHUBjD8j2OfZqp_?usp=sharing) 
 ## [PPT](https://drive.google.com/file/d/1PV29CZEbPqpoixbN-k1M0U2zFsywfPCE/view?usp=sharing)  
+# Team
+
+ * ### Devansh Swarup 
+   [<img src="images/linkedin.png">](https://in.linkedin.com/in/devansh-swarup-85436554)     [<img src="images/github.png">](https://github.com/devansh2712)
+ * ### Dhruv Upadhyay
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/intmanear/)     [<img src="images/github.png">](https://github.com/IntManear)
+ * ### Shobit Puri 
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/shobit-puri-3b30bb18b/)     [<img src="images/github.png">](https://github.com/ScarletSpidey)
+* ### Aryan Pandey 
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/aryan-pandey/)     [<img src="images/github.png">](https://github.com/ap-aryanpandey)
