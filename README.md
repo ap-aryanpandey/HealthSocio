@@ -26,3 +26,5 @@ Although it sounds obvious that health is more than clinical factors, there is n
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/shobit-puri-3b30bb18b/)     [<img src="images/github.png">](https://github.com/ScarletSpidey)
 * ### Aryan Pandey 
    [<img src="images/linkedin.png">](https://www.linkedin.com/in/aryan-pandey/)     [<img src="images/github.png">](https://github.com/ap-aryanpandey)
+* ### Satya Krisnasamy
+   [<img src="images/linkedin.png">](https://www.linkedin.com/in/sathya-krishnasamy-3b369a20/)
