@@ -11,5 +11,5 @@ Although it sounds obvious that health is more than clinical factors, there is n
 - Documentation challenges.
 - Usual bugs and syntactical challenges while building the codebase.
 
-## [Video:](https://drive.google.com/file/d/1PV29CZEbPqpoixbN-k1M0U2zFsywfPCE/view?usp=sharing) 
+## [Video:](https://drive.google.com/drive/folders/1_Pj2xaJQJN0Lw6UbYVHUBjD8j2OfZqp_?usp=sharing) 
 ## [PPT:](https://drive.google.com/file/d/1PV29CZEbPqpoixbN-k1M0U2zFsywfPCE/view?usp=sharing)  
